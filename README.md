@@ -1,1 +1,2 @@
-# app-dev
+# My Favorite Movies is Harry Potter
+###The Harry Potter series, written by J.K. Rowling, follows the journey of a young wizard named Harry Potter as he discovers his magical heritage and battles the dark wizard Voldemort. Spanning seven books, the series explores themes of friendship, bravery, and the struggle between good and evil, captivating readers of all ages. With its rich world-building and memorable characters, the series has become a cultural phenomenon, inspiring films, merchandise, and a dedicated fan base.
